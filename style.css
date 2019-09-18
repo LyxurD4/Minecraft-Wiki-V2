@@ -1,0 +1,38 @@
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {
+    border: 1px solid black ;
+}
+
+body {
+    font-family: Arial;
+    background-image: url("background.jpg");
+    background-size: 100%;
+    color: black;
+}
+
+div {
+    margin: 20px;
+    background-color: rgba(167, 167, 167, 0.5);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+a {
+    color: black;
+}
+
+h1  {
+    color: white;
+}
+
+img {
+    padding-right: 5px;
+}
+
+.blank {
+border: none;
+}
