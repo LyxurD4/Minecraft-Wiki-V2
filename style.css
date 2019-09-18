@@ -35,7 +35,7 @@ body {
 
 .redstone {
     background-image: url("redstone.png");
-    background-size: 50px;
+    background-size: 60px;
 }
 
 .food {
@@ -44,8 +44,8 @@ body {
 }
 
 .tools {
-    background-image: url("ironblock.png");
-    background-size: 50px;
+    background-image: url("Iron_Axe.png");
+    background-size: 60px;
 }
 
 .combat {
@@ -60,7 +60,7 @@ body {
 
 .materials {
     background-image: url("emerald.png");
-    background-size: 50px;
+    background-size: 57px;
 }
 
 .misc {
@@ -80,7 +80,9 @@ a {
 }
 
 h1  {
-    color: white;
+    color: #6AA35C;
+    text-align: center;
+    text-shadow: 2px 2px black;
 }
 
 img {
