@@ -6,12 +6,16 @@ td {
 th {
     border: 2px solid white;
     padding-bottom: 20px;
+    color: white;
+    text-shadow: 2px 2px black;
 }
 
 body {
     font-family: Arial;
     background-image: url("dirt.png");
     color: black;
+    min-width: 1280px;
+
 }
 
 .building {
